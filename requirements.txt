@@ -11,3 +11,6 @@ matplotlib>=1.4.3
 pandas>=0.19
 seaborn>=0.9.1
 jsonschema==3.2.0
+shapy==1.2.0
+xgboost==1.6.1
+logging==0.5.1.2
